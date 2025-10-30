@@ -1,4 +1,3 @@
 {
-  "new_key": "Hello from typed httpx!",
-  "last_updated_by": "httpx-with-types"
+    "test": true
 }
